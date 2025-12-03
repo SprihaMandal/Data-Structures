@@ -6,6 +6,7 @@ public class DNode {
     DNode(int value) {
         this.val = value;
     }
+    // ..
 
     DNode(int value, DNode nextValue, DNode prevValue) {
         this.val = value;
